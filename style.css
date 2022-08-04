@@ -33,11 +33,12 @@ ul{
     width: 300px;
     justify-content: space-between;
     border-radius: 5px;;
+    gap: 2px;
 
 }
 input{
     border: none;
-    max-width: 100%;
+    width: 100%;
     outline: none;
     
 }
