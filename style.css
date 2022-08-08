@@ -4,6 +4,9 @@
 linear-gradient(0deg, #00B4D8, #00B4D8);
 
 */
+*{
+    box-sizing: border-box;
+}
 nav{
     display: flex;
     align-items: center;
@@ -91,7 +94,7 @@ nav .get-started{
         display: flex;
     }
     li{
-        width: 8.6em;
+        width: 100%;
         padding: 0.5em 1.2em;
         border: none;
     }
